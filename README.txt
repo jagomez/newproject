@@ -1,3 +1,7 @@
 Hi there!
 this is for my first github repository
-too crazy
+really going well
+now learning 
+about git add —-all
+that use to be something else
+cheers!
